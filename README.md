@@ -56,5 +56,5 @@ Diagram
 **Amarachi Emeziem**  
 Cloud Security Enthusiast | AWS Certified | CompTIA Security+ (in progress)
 
-Let's connect on [LinkedIn](https://linkedin.com/in/your-profile) 🚀
+Let's connect: https://www.linkedin.com/in/amarachilemeziem/ 🚀
 
