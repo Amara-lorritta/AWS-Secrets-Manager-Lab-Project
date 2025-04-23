@@ -32,6 +32,9 @@ This project demonstrates how to securely store, retrieve, and rotate sensitive 
 
 > Shows a terminal connection to an EC2 instance via AWS Session Manager, used for installing MySQL/MariaDB client and running queries.
 
+### Basic Architecture of the Project Environment
+![image](https://github.com/user-attachments/assets/691c66b7-1682-4c88-ad8c-bfc514d19a39)
+
 
 ### 2. 🔁 Manual Secret Rotation and versions
 ![Screenshot (15)](https://github.com/user-attachments/assets/cb4256e2-91d9-4525-899d-9c76a39732d4)
